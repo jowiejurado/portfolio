@@ -1,0 +1,32 @@
+* {
+	box-sizing: border-box;
+}
+
+.name {
+	font-family: 'Montserrat Variable', sans-serif;
+	font-size: 4rem;
+	font-weight: 500;
+}
+
+.position {
+	font-family: 'Montserrat Variable', sans-serif;
+	font-size: 2rem;
+	font-weight: 300;
+}
+
+.footer {
+	font-family: 'Montserrat Variable', sans-serif;
+	font-weight: 300;
+}
+
+.about {
+	font-family: 'Montserrat Variable', sans-serif;
+	font-size: 1.5rem;
+	font-weight: 300;
+}
+
+.skill-title {
+	font-family: 'Montserrat Variable', sans-serif;
+	font-size: 1.25rem;
+	font-weight: 400;
+}

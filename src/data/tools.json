@@ -1,0 +1,124 @@
+{
+	"tools": [
+		{
+			"link": "https://nodejs.org/en/about",
+			"logo": "nodejs.png",
+			"name": "Node.js"
+		},
+		{
+			"link": "https://github.com/nvm-sh/nvm",
+			"logo": "nvm.png",
+			"name": "NVM"
+		},
+		{
+			"link": "https://code.visualstudio.com/",
+			"logo": "vscode.png",
+			"name": "VSCode"
+		},
+		{
+			"link": "https://visualstudio.microsoft.com/",
+			"logo": "visual-studio.png",
+			"name": "Visual Studio"
+		},
+		{
+			"link": "https://www.sublimetext.com/",
+			"logo": "sublime-text.png",
+			"name": "Sublime Text"
+		},
+		{
+			"link": "https://www.jetbrains.com/datagrip/",
+			"logo": "datagrip.png",
+			"name": "DataGrip"
+		},
+		{
+			"link": "https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16",
+			"logo": "ssms.png",
+			"name": "SSMS"
+		},
+		{
+			"link": "https://www.mysql.com/products/workbench/",
+			"logo": "mysql-workbench.png",
+			"name": "MySQL WorkBench"
+		},
+		{
+			"link": "https://www.apachefriends.org/",
+			"logo": "xampp.png",
+			"name": "XAMPP"
+		},
+		{
+			"link": "https://www.wampserver.com/en/",
+			"logo": "wamp.png",
+			"name": "WAMP"
+		},
+		{
+			"link": "https://vitejs.dev/",
+			"logo": "vite.png",
+			"name": "ViteJS"
+		},
+		{
+			"link": "https://www.postman.com/",
+			"logo": "postman.svg",
+			"name": "Postman"
+		},
+		{
+			"link": "https://httpd.apache.org/",
+			"logo": "apache.png",
+			"name": "Apache"
+		},
+		{
+			"link": "https://clickup.com/",
+			"logo": "clickup.png",
+			"name": "ClickUp"
+		},
+		{
+			"link": "https://trello.com/",
+			"logo": "trello.png",
+			"name": "Trello"
+		},
+		{
+			"link": "https://www.airtable.com/",
+			"logo": "airtable.png",
+			"name": "AirTable"
+		},
+		{
+			"link": "https://www.microsoft.com/en-ph/windows",
+			"logo": "windows.png",
+			"name": "Windows"
+		},
+		{
+			"link": "https://ubuntu.com/",
+			"logo": "ubuntu.png",
+			"name": "Ubuntu"
+		},
+		{
+			"link": "https://aws.amazon.com/",
+			"logo": "aws.png",
+			"name": "AWS EC2 / S3"
+		},
+		{
+			"link": "https://www.iis.net/",
+			"logo": "iis.png",
+			"name": "IIS"
+		},
+		{
+			"link": "https://spatie.be/",
+			"logo": "spatie.png",
+			"name": "Spatie"
+		},
+		{
+			"link": "https://www.npmjs.com/",
+			"logo": "npm.png",
+			"name": "NPM"
+		},
+		{
+			"link": "https://about.gitlab.com/",
+			"logo": "gitlab.svg",
+			"name": "GitLab"
+		},
+		{
+			"link": "https://www.docker.com/",
+			"logo": "docker.webp",
+			"name": "Docker"
+		}
+	]
+}

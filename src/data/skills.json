@@ -1,0 +1,124 @@
+{
+	"skills": [
+		{
+			"link": "https://laravel.com/",
+			"logo": "laravel.png",
+			"name": "Laravel"
+		},
+		{
+			"link": "https://www.php.net/",
+			"logo": "php.png",
+			"name": "PHP"
+		},
+		{
+			"link": "https://vuejs.org/",
+			"logo": "vuejs.png",
+			"name": "VueJS"
+		},
+		{
+			"link": "https://nuxt.com/",
+			"logo": "nuxtjs.png",
+			"name": "NuxtJS"
+		},
+		{
+			"link": "https://www.tutorialspoint.com/html5/index.htm",
+			"logo": "html.png",
+			"name": "HTML5"
+		},
+		{
+			"link": "https://www.tutorialspoint.com/css/css3_tutorial.htm",
+			"logo": "css3.png",
+			"name": "CSS3"
+		},
+		{
+			"link": "https://wordpress.org/",
+			"logo": "wordpress.png",
+			"name": "WordPress"
+		},
+		{
+			"link": "https://dotnet.microsoft.com/en-us/learntocode",
+			"logo": "c-sharp.png",
+			"name": "C#"
+		},
+		{
+			"link": "https://dotnet.microsoft.com/en-us/apps/aspnet",
+			"logo": "aspnet.png",
+			"name": "ASP.Net"
+		},
+		{
+			"link": "https://react.dev/",
+			"logo": "react.png",
+			"name": "ReactJS"
+		},
+		{
+			"link": "https://www.w3schools.com/js/",
+			"logo": "javascript.png",
+			"name": "JavaScript"
+		},
+		{
+			"link": "https://jquery.com/",
+			"logo": "jquery.png",
+			"name": "jQuery"
+		},
+		{
+			"link": "https://vuetifyjs.com/en/",
+			"logo": "vuetifyjs.svg",
+			"name": "VuetifyJS"
+		},
+		{
+			"link": "https://tailwindcss.com/",
+			"logo": "tailwind.png",
+			"name": "Tailwind CSS"
+		},
+		{
+			"link": "https://getbootstrap.com/",
+			"logo": "bootstrap.png",
+			"name": "Bootstrap"
+		},
+		{
+			"link": "https://getuikit.com/",
+			"logo": "uikit.svg",
+			"name": "UIKit"
+		},
+		{
+			"link": "https://headlessui.com/",
+			"logo": "headlessui.png",
+			"name": "Headless UI"
+		},
+		{
+			"link": "https://www.mysql.com/",
+			"logo": "mysql.png",
+			"name": "MySQL"
+		},
+		{
+			"link": "https://mariadb.org/",
+			"logo": "mariadb.png",
+			"name": "MariaDB"
+		},
+		{
+			"link": "https://www.postgresql.org/",
+			"logo": "postgresql.png",
+			"name": "PostgreSQL"
+		},
+		{
+			"link": "https://learn.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver16/",
+			"logo": "microsoft-sql-server.png",
+			"name": "Microsoft SQL"
+		},
+		{
+			"link": "https://getcomposer.org/",
+			"logo": "composer.png",
+			"name": "Composer"
+		},
+		{
+			"link": "https://git-scm.com/",
+			"logo": "git.png",
+			"name": "Git"
+		},
+		{
+			"link": "https://github.com/",
+			"logo": "github.png",
+			"name": "GitHub"
+		}
+	]
+}

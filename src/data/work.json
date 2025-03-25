@@ -1,0 +1,164 @@
+{
+	"works": [
+		{
+			"icon": "mdi-briefcase",
+			"color": "primary",
+			"jobDescription": "Deployed and maintained two projects while collaborating with end users, business analysts, and stakeholders to gather requirements, ensuring alignment with user preferences, business needs, and legal compliance, mentoring junior software engineers on industry best practices, and staying updated on emerging technologies.",
+			"jobTitle": "Intermediate Software Engineer | 2023 - Present",
+			"projects": [
+				{
+					"caption": "Makati AIS (Accounting Information System)",
+					"image": "ais-1.png"
+				},
+				{
+					"caption": "Makati AIS (Accounting Information System)",
+					"image": "ais-2.png"
+				},
+				{
+					"caption": "Makati AIS (Accounting Information System)",
+					"image": "ais-3.png"
+				},
+				{
+					"caption": "Makati AIS (Accounting Information System)",
+					"image": "ais-4.png"
+				},
+				{
+					"caption": "Makati AIS (Accounting Information System)",
+					"image": "ais-5.png"
+				},
+				{
+					"caption": "Makati E-Sign",
+					"image": "esign-1.png"
+				},
+				{
+					"caption": "Makati E-Sign",
+					"image": "esign-2.png"
+				},
+				{
+					"caption": "Makati E-Sign",
+					"image": "esign-3.png"
+				},
+				{
+					"caption": "Makati E-Sign",
+					"image": "esign-4.png"
+				},
+				{
+					"caption": "Makati E-Sign",
+					"image": "esign-5.png"
+				},
+				{
+					"caption": "Makati E-Sign",
+					"image": "esign-6.png"
+				},
+				{
+					"caption": "LMIIS (Logistic Management Inventory and Information System)",
+					"image": "lmiis-1.png"
+				},
+				{
+					"caption": "LMIIS (Logistic Management Inventory and Information System)",
+					"image": "lmiis-2.png"
+				},
+				{
+					"caption": "LMIIS (Logistic Management Inventory and Information System)",
+					"image": "lmiis-3.png"
+				},
+				{
+					"caption": "LMIIS (Logistic Management Inventory and Information System)",
+					"image": "lmiis-4.png"
+				},
+				{
+					"caption": "LMIIS (Logistic Management Inventory and Information System)",
+					"image": "lmiis-5.png"
+				},
+				{
+					"caption": "LMIIS (Logistic Management Inventory and Information System)",
+					"image": "lmiis-6.png"
+				}
+			]
+		},
+		{
+			"icon": "mdi-briefcase",
+			"color": "success",
+			"jobDescription": "Successfully managed and maintained five projects as part of a 4 member team, designing, developing, testing, deploying, and documenting custom web applications for clients with daily updates and server deployments.",
+			"jobTitle": "Junior Software Developer | 2021 - 2023",
+			"projects": [
+				{
+					"caption": "Document Archiving",
+					"image": "archiving-home.png"
+				},
+				{
+					"caption": "Document Archiving",
+					"image": "archiving1.png"
+				},
+				{
+					"caption": "Document Archiving",
+					"image": "archiving2.png"
+				},
+				{
+					"caption": "Document Archiving",
+					"image": "archiving3.png"
+				},
+				{
+					"caption": "Document Archiving",
+					"image": "archiving4.png"
+				},
+				{
+					"caption": "Document Archiving",
+					"image": "archiving5.png"
+				},
+				{
+					"caption": "Document Archiving",
+					"image": "archiving6.png"
+				},
+				{
+					"caption": "AVLCI (Astoria Vacation & Leisure Club Inc. System)",
+					"image": "avlci-1.png"
+				},
+				{
+					"caption": "AVLCI (Astoria Vacation & Leisure Club Inc. System)",
+					"image": "avlci-2.png"
+				},
+				{
+					"caption": "AVLCI (Astoria Vacation & Leisure Club Inc. System)",
+					"image": "avlci-3.png"
+				},
+				{
+					"caption": "AVLCI (Astoria Vacation & Leisure Club Inc. System)",
+					"image": "avlci-4.png"
+				},
+				{
+					"caption": "Farmer Information System",
+					"image": "fis1.png"
+				},
+				{
+					"caption": "Farmer Information System",
+					"image": "fis2.png"
+				},
+				{
+					"caption": "Farmer Information System",
+					"image": "fis3.png"
+				},
+				{
+					"caption": "Farmer Information System",
+					"image": "fis4.png"
+				},
+				{
+					"caption": "RisToken",
+					"image": "ristoken1.png"
+				},
+				{
+					"caption": "RisToken",
+					"image": "ristoken2.png"
+				},
+				{
+					"caption": "RisToken",
+					"image": "ristoken3.png"
+				},
+				{
+					"caption": "RisToken",
+					"image": "ristoken4.png"
+				}
+			]
+		}
+	]
+}
