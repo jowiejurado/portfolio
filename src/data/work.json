@@ -2,9 +2,149 @@
 	"works": [
 		{
 			"icon": "mdi-briefcase",
-			"color": "primary",
+			"color": "success",
+			"jobDescription": "Designed, developed, and maintained custom websites for diverse clients, collaborating closely to meet business objectives, optimizing performance, and staying updated with the latest web technologies and trends.",
+			"jobTitle": "Web Developer | 2024 - Present",
+			"projects": [
+				{
+					"caption": "Optism",
+					"image": "optism-1.png"
+				},
+				{
+					"caption": "Optism",
+					"image": "optism-2.png"
+				},
+				{
+					"caption": "Optism",
+					"image": "optism-3.png"
+				},
+				{
+					"caption": "Optism",
+					"image": "optism-4.png"
+				},
+				{
+					"caption": "Optism",
+					"image": "optism-5.png"
+				},
+				{
+					"caption": "Optism",
+					"image": "optism-6.png"
+				},
+				{
+					"caption": "Latitude",
+					"image": "latitude-1.png"
+				},
+				{
+					"caption": "Latitude",
+					"image": "latitude-2.png"
+				},
+				{
+					"caption": "Latitude",
+					"image": "latitude-3.png"
+				},
+				{
+					"caption": "Lexibook Pro",
+					"image": "lexibookpro-1.png"
+				},
+				{
+					"caption": "Lexibook Pro",
+					"image": "lexibookpro-2.png"
+				},
+				{
+					"caption": "Lexibook Pro",
+					"image": "lexibookpro-3.png"
+				},
+				{
+					"caption": "Lexibook Pro",
+					"image": "lexibookpro-4.png"
+				},
+				{
+					"caption": "Lexibook Pro",
+					"image": "lexibookpro-5.png"
+				},
+				{
+					"caption": "DayOne",
+					"image": "dayone-1.png"
+				},
+				{
+					"caption": "DayOne",
+					"image": "dayone-2.png"
+				},
+				{
+					"caption": "DayOne",
+					"image": "dayone-3.png"
+				},
+				{
+					"caption": "DayOne",
+					"image": "dayone-4.png"
+				},
+				{
+					"caption": "DayOne",
+					"image": "dayone-5.png"
+				},
+				{
+					"caption": "DayOne",
+					"image": "dayone-6.png"
+				},
+				{
+					"caption": "DayOne",
+					"image": "dayone-7.png"
+				},
+				{
+					"caption": "SchoolChoice HK",
+					"image": "schoolchoicehk-1.png"
+				},
+				{
+					"caption": "SchoolChoice HK",
+					"image": "schoolchoicehk-2.png"
+				},
+				{
+					"caption": "SchoolChoice HK",
+					"image": "schoolchoicehk-3.png"
+				},
+				{
+					"caption": "SchoolChoice HK",
+					"image": "schoolchoicehk-4.png"
+				},
+				{
+					"caption": "SchoolChoice HK",
+					"image": "schoolchoicehk-5.png"
+				},
+				{
+					"caption": "SchoolChoice HK",
+					"image": "schoolchoicehk-6.png"
+				},
+				{
+					"caption": "Ural And Uramet",
+					"image": "urametau-1.png"
+				},
+				{
+					"caption": "Ural And Uramet",
+					"image": "urametau-2.png"
+				},
+				{
+					"caption": "Ural And Uramet",
+					"image": "urametau-3.png"
+				},
+				{
+					"caption": "Ural And Uramet",
+					"image": "urametau-4.png"
+				},
+				{
+					"caption": "Ural And Uramet",
+					"image": "urametau-5.png"
+				},
+				{
+					"caption": "Ural And Uramet",
+					"image": "urametau-6.png"
+				}
+			]
+		},
+		{
+			"icon": "mdi-briefcase",
+			"color": "warning",
 			"jobDescription": "Deployed and maintained two projects while collaborating with end users, business analysts, and stakeholders to gather requirements, ensuring alignment with user preferences, business needs, and legal compliance, mentoring junior software engineers on industry best practices, and staying updated on emerging technologies.",
-			"jobTitle": "Intermediate Software Engineer | 2023 - Present",
+			"jobTitle": "Intermediate Software Engineer | 2023 - 2024",
 			"projects": [
 				{
 					"caption": "Makati AIS (Accounting Information System)",
@@ -78,7 +218,7 @@
 		},
 		{
 			"icon": "mdi-briefcase",
-			"color": "success",
+			"color": "info",
 			"jobDescription": "Successfully managed and maintained five projects as part of a 4 member team, designing, developing, testing, deploying, and documenting custom web applications for clients with daily updates and server deployments.",
 			"jobTitle": "Junior Software Developer | 2021 - 2023",
 			"projects": [
